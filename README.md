@@ -14,7 +14,7 @@
 
 | 🧑 팀장 | 🧑 팀원 | 🧑 팀원 | 👨‍🏫 멘토 |
 | :---: | :---: | :---: | :---: |
-| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width="200">](https://github.com/gimseonjin)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/shingeunjae.png" width="100">](https://github.com/Boknami)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/leeyonggu.png" width="100">](https://github.com/reflash407)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/leegogyun.png" width="100">](https://github.com/luke0706)|
+| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width="200">](https://github.com/gimseonjin)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/shingeunjae.png" width="200">](https://github.com/Boknami)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/leeyonggu.png" width="200">](https://github.com/reflash407)| [<img src="https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/leegogyun.png" width="200">](https://github.com/luke0706)|
 | 김선진 | 신근재 | 이용구 | 이고균 |
  
 
