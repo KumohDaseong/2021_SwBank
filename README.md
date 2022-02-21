@@ -14,7 +14,7 @@
 
 | 🧑 팀장 | 🧑 팀원 | 🧑 팀원 | 👨‍🏫 멘토 |
 | :---: | :---: | :---: | :---: |
-| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width="100">](https://github.com/tape22)| [<img src= width="100">](https://github.com/ybell1028)| [<img src= width="100">](https://github.com/ybell1028)| [<img src= width="100">](https://github.com/ybell1028)|
+| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width="200">](https://github.com/tape22)| [<img src= width="100">](https://github.com/ybell1028)| [<img src= width="100">](https://github.com/ybell1028)| [<img src= width="100">](https://github.com/ybell1028)|
 | 김선진 | 신근재 | 이용구 | 이고균 |
  
 
@@ -22,7 +22,7 @@
 </div>
 
 ## 🛠 Architecture
-<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/Architecture.png" width="100">
+<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/Architecture.png" width="500">
 
 ## 📋 Stack
 <img src= width="100">
