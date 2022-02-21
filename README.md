@@ -9,7 +9,7 @@
 |팀장|팀원|팀원|멘토|
 | :---: | :---: | :---: | :---: |
 | [<img src="" width="100">](https://github.com/)| [<img src="" width="100">](https://github.com/) | [<img src="" width="100">](https://github.com/) | [<img src="" width="100">](https://github.com/) |
-| 김선진 | 신근재 | 이용구 | 이고균 |
+
 
 </div>
 
