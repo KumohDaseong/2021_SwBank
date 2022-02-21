@@ -25,7 +25,7 @@
 <img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/Architecture.png" width="800">
 
 ## 📋 Stack
-<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/Skillset.png" width="800">
+<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/Skillset.jpg" width="800">
 
 <br>
 
