@@ -6,8 +6,10 @@
 
 ## 🧑‍💻 Member
 <div align="center">
-|팀장|팀원|팀원|멘토|
+| 팀장 | 팀원 | 팀원 | 멘토 |
 | :---: | :---: | :---: | :---: |
+| 김선진 | 신근재 | 이용구 | 이고균 |
+ 
 | [<img src="" width="100">](https://github.com/)| [<img src="" width="100">](https://github.com/) | [<img src="" width="100">](https://github.com/) | [<img src="" width="100">](https://github.com/) |
 
 
