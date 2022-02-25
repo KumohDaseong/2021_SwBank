@@ -1,12 +1,12 @@
 <div align="center">
     <br/>
     <h1>Bacord_Recognition_Server</h1>
-    <p>Server for udi barcode recognition developed by Carrykim in kumohdaseon Team.</p><br/>
+    <p>Server for udi barcode recognition developed by kumohdaseong Team.</p><br/>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg">
     <img src="https://forthebadge.com/images/badges/fo-real.svg">
     <br/>
     <br/>
-    master<br/>
+    main<br/>
     <img src="https://semaphoreci.com/api/v1/foryou8033j/kumohtime_v2/branches/master/badge.svg">
     <br/>
     <br/>
