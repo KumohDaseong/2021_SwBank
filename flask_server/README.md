@@ -19,7 +19,8 @@ Based on <a href="">Flask</a> with Python Language
 
 #### API DOCS
 이번 프로젝트에서는 별도의 API Docs tool(ex swagger)를 사용하지 않고 Notion으로 작성하였습니다.
-Link : https://elderly-gruyere-ed2.notion.site/Barcode-Recognition-Server-API-Docs-bfd717e89c6f4b1fb7f07f6895482f78
+
+Link : 바로가기 (https://elderly-gruyere-ed2.notion.site/Barcode-Recognition-Server-API-Docs-bfd717e89c6f4b1fb7f07f6895482f78)
 
 #### Requirement
 ```
